@@ -1,10 +1,10 @@
-## This is a tutorial from Front End Masters: **Introduction to Next.JS** by, Scott Moss
+## This is an online lesson from Front End Masters: **Introduction to Next.JS** by, Scott Moss
 
 ### Highly recommended for anyone interested in learning NextJS!!!
 
-#### Here is a link to Front End Masters: 
+#### Here is a link to the course on [Front End Masters](https://frontendmasters.com/): 
 
-[FEM NEXTJS](https://frontendmasters.com/courses/next-js/)
+[Introduction to NextJS](https://frontendmasters.com/courses/next-js/)
 
 #### Here is a link to the Scott's repo with the source coude, including branches that follow along with the video.
 
