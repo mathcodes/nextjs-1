@@ -1,25 +1,30 @@
-### You have found my repo that is in progress and includes my progress in learning from a GREAT course on NextJS:
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Getting Started
 
-### **Introduction to Next.JS** by, Scott Moss.
+First, run the development server:
 
-### Highly recommended for anyone interested in learning NextJS!!!
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-#### Below is a link to the course on [Front End Masters](https://frontendmasters.com/): 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-[Introduction to NextJS](https://frontendmasters.com/courses/next-js/)
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-#### Below is a link to Scott's repo with the source coude, including branches that follow along with the video.
+## Learn More
 
-[Scott's Repo with source code](https://github.com/Hendrixer/nextjs-course-app/tree/master)
+To learn more about Next.js, take a look at the following resources:
 
-#### Lastly, Scott generously supplies his course with a customized and easy to follow outline of the entire course with code included to copy and paste if you choose to do so. 
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-#### Huge shout out to [Scott Moss](https://github.com/hendrixer) and everyone at [Front End Masters](https://frontendmasters.com/) for putting all this incerdibly helpful and easy to understand material while keeping up with the latest technology!
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-#### Contact
-<img src ="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
+## Deploy on Vercel
 
-##### __Jon Christie__ 
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-##### GitHub: [mathcodes](https://github.com/mathcodes) 
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
